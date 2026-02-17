@@ -1,5 +1,5 @@
 # About Me:
-<br>I’m an Electronics Engineering student who likes building things and figuring out how they actually work under the hood.<br><br>I started out playing around with Arduino, but lately I’ve been getting into STM32 and proper embedded C. I enjoy working closer to the hardware — dealing with registers, interrupts, and communication protocols instead of just using libraries.<br><br>I’ve also spent some time working on drone projects, which got me really interested in how hardware, firmware, and communication systems all fit together.<br><br>Right now I’m focused on getting my fundamentals strong — C, Microcontrollers, and core electronics — so I can build more solid systems in the future.<br><br>Still learning, still experimenting.<br>
+<br>I’m an Electronics Engineering student who likes building things and figuring out how they actually work under the hood.<br><br>I started out playing around with Arduino, but lately I’ve been getting into STM32 and proper embedded C. I enjoy working closer to the hardware — dealing with registers, interrupts, and communication protocols instead of just using libraries.<br><br>I’ve also spent some time working on drone projects, which got me really interested in how hardware, firmware, and communication systems all fit together.<br><br>Right now I’m focused on getting my fundamentals strong — C, Microcontrollers, and core electronics — so I can build more solid systems in the future.<br><br>Trying to get better at electronics and chess<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhananjay-Jha-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
